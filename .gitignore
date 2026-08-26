@@ -42,3 +42,6 @@ Thumbs.db
 # Publishing secrets (extension marketplace tokens) — never commit
 publisher-secrets.json
 addons/reactive_ui_analyzer/
+
+# Generated output from graphify (see README.md for usage). The source .graph files are committed.
+graphify-out
